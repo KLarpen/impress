@@ -2,6 +2,8 @@
 
 ## [Unreleased][unreleased]
 
+- Reimplement global timeouts.request usage during a Procedure invocation
+
 ## [3.0.13][] - 2023-10-22
 
 - Fix serve static not in cache (e.g. certbot challenge)
